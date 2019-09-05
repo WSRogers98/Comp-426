@@ -1,0 +1,42 @@
+body {
+    font-variant: small-caps;
+}
+body> h1{
+    font-variant: normal;
+    color: blue;
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    background-color: #ffffff;
+}
+a:hover{
+ color: red;
+ background-color: #ffff99
+}
+
+.naptime{
+font-family: cursive;
+border: 3px solid blue;
+border-radius: 16px;
+text-align: center;
+
+}
+#please{
+    color: cyan;
+}
+#time{
+    height: 30px;
+    width: 30px;
+}
+#source{
+    color: cyan;
+    font-variant: small-caps;
+}
+#comp426{
+font-style: italic;
+}
+#puggy{
+    font-variant: small-caps;
+}
+#puggo{
+    font-variant: small-caps;
+}
